@@ -79,7 +79,7 @@ const ProblemSection = () => {
                 <p className="font-medium">Lembrar vira "climão"</p>
               </div>
               <div className="text-center space-y-2">
-                <div className="text-2xl">🥲</div>
+                <div className="text-2xl">😔</div>
                 <p className="font-medium">E quem se organiza... se frustra</p>
               </div>
             </div>
